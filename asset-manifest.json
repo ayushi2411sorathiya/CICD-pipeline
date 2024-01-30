@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CICD-pipeline/static/css/main.f855e6bc.css",
-    "main.js": "/CICD-pipeline/static/js/main.9ca962f5.js",
+    "main.css": "/CICD-pipeline/static/css/main.e6c13ad2.css",
+    "main.js": "/CICD-pipeline/static/js/main.1d47e55e.js",
     "static/js/787.d4aba7ab.chunk.js": "/CICD-pipeline/static/js/787.d4aba7ab.chunk.js",
     "index.html": "/CICD-pipeline/index.html",
-    "main.f855e6bc.css.map": "/CICD-pipeline/static/css/main.f855e6bc.css.map",
-    "main.9ca962f5.js.map": "/CICD-pipeline/static/js/main.9ca962f5.js.map",
+    "main.e6c13ad2.css.map": "/CICD-pipeline/static/css/main.e6c13ad2.css.map",
+    "main.1d47e55e.js.map": "/CICD-pipeline/static/js/main.1d47e55e.js.map",
     "787.d4aba7ab.chunk.js.map": "/CICD-pipeline/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9ca962f5.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1d47e55e.js"
   ]
 }
