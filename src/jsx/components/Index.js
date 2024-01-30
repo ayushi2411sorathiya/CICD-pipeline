@@ -10,7 +10,7 @@ const Index = () => {
                 <Link to="/contact"><li><a href="">Contact</a></li></Link>
             </ul>
             <div>
-
+                Here is a component ⬇️
             </div>
         </div>
     )
