@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Hello Dilipbhai sorathiya, I am Ayushi 💐.
+      <h1>
+        Manage with CI/CD pipeline
+      </h1>
     </div>
   );
 }
