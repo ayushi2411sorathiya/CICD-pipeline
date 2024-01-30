@@ -11,7 +11,8 @@ function App() {
       <Index />
 
       <Routes>
-        <Route exact path='/' element={<Home />} />
+        <Route exact path='/CICD-pipeline' element={<Home />} />
+        <Route path='/' element={<Home />} />
         <Route path='/about' element={<About />} />
         <Route path='/contact' element={<Contact />} />
       </Routes>
